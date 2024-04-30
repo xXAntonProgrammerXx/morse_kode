@@ -3,10 +3,10 @@ import unittest
 import random
 import string
 import requests
-from MorseCodePy import encode, decode
+from MorseCodePy import encode
 
 # Den kode, der skal testes
-import morse_solved
+import morse
 
 class TestDictionary(unittest.TestCase):
     def testMorseCode(self):
