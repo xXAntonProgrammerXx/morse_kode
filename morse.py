@@ -1,5 +1,5 @@
 # Dictionary til oversættelse fra bogstaver til morsekode
-morseCode = {"a":".-"}
+morseCode = {"a":".-", "b":"-...", "c":"-.-.", "d":"-..", "e":".", "f":"..-."}
 
 # Dictionary til oversættelse fra morsekode til bogstaver. Tomt oversættes til mellemrum.
 morseCodeReverse = {}
