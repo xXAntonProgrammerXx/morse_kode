@@ -22,3 +22,4 @@ def encodeMessage(message, code):
 # '//' markerer nyt ord
 def decodeMessage(message, code):
     pass
+print (translate("a",morseCode))
